@@ -1,4 +1,8 @@
 # competitve-programming-practice
+### My Codeforces Profile
+
+[![Codeforces Profile](https://run.kaist.ac.kr/badges/codeforces/smsdeprep.svg)](https://codeforces.com/profile/smsdeprep)
+
 In this repository, I have solved all the questions ranging from rating 1000 to 2000 on Codeforces. Every day, I strive to solve one problem correctly.Its fully for practice.
 
 # specialist target solve 600 problems from 1000-1400 its fully daily practice 
