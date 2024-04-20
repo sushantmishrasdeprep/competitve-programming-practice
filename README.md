@@ -1,7 +1,7 @@
 # competitve-programming-practice
 In this repository, I have solved all the questions ranging from rating 1000 to 2000 on Codeforces. Every day, I strive to solve one problem correctly.Its fully for practice.
 
-#specialist target solve 600 problems from 1000-1400 its fully daily practice 
+# specialist target solve 600 problems from 1000-1400 its fully daily practice 
 
 # 1000
 1. [Reverse Sort](https://codeforces.com/problemset/problem/1605/B)
