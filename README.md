@@ -10,6 +10,8 @@ In this repository, I have solved all the questions ranging from rating 1000 to 
 # 1000
 1. [Reverse Sort](https://codeforces.com/problemset/problem/1605/B)
 2. [LuoTianyi and the Table](https://codeforces.com/contest/1825/problem/B)
+3. [progressive square](https://codeforces.com/contest/1955/problem/B)
+4. 
 # 1100
 1. [Chess Tourney](https://codeforces.com/problemset/problem/845/A)
 
